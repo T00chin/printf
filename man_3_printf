@@ -4,7 +4,7 @@
 .\"
 .\"
 .\"
-.TH _PRINTF "May 20 2022" "0.1" "Library functions manual"
+.TH _PRINTF "April 26 2023" "0.1" "Library functions manual"
 
 .SH NAME
 .SH ""
@@ -124,4 +124,4 @@ hexadecimal preceded by \x
 
 .SH "AUTHORS"
 .SH ""
-Nwabueze Franklin and Ifeoluwa Atansieye
+Brian Toochin and Edwin Ojwang.
